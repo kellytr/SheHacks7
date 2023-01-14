@@ -1,4 +1,4 @@
-<!--GENERAL STYLE-->
+/* GENERAL STYLE */
 
 body {
     background-color: white;
@@ -44,7 +44,7 @@ line-height: 47px;
 color: #000000;
 }
 
-<!--MAIN PAGE-->
+/* MAIN PAGE */
 
 #hook {
 position: absolute;
@@ -214,7 +214,7 @@ top: 2025px;
 padding-bottom: 100px;
 }
 
-<!--MEET OUR TEAM-->
+/* MEET THE TEAM */
 
 #about-team {
 
@@ -223,6 +223,14 @@ width: 759px;
 height: 50px;
 left: 160px;
 top: 207px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
 
 }
 
@@ -247,7 +255,7 @@ padding-bottom: 100px;
 
 }
 
-<!--HOW IT WORKS-->
+/* HOW IT WORKS */
 
 #hiw-header {
 position: absolute;
@@ -304,4 +312,5 @@ width: 1104px;
 height: 195px;
 left: 160px;
 top: 1157px;
+padding-bottom: 100px;
 }
