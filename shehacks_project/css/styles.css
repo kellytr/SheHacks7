@@ -12,18 +12,77 @@ gap: 40px;
 position: absolute;
 width: 472px;
 height: 26px;
-left: 526px;
+left: 566px;
 top: 85px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 700;
-font-size: 20px;
+font-size: 18px;
 line-height: 26px;
 }
 
-#companyname {
+#logo {
 
+position: absolute;
+width: 171px;
+height: auto;
+left: 157px;
+top: 70px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#hook {
+position: absolute;
+width: 531px;
+height: 152px;
+left: 155px;
+top: 241px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+
+#homepara {
+    position: absolute;
+width: 451px;
+height: 92px;
+left: 155px;
+top: 467px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+}
+
+#hook-img {
+position: absolute;
+width: 359px;
+height: auto;
+left: 929px;
+top: 185px;
+
+background: url(bonbon-line-hand-holds-the-mirror-the-brush-and-the-makeup-palette.png);
+}
+
+#getstartedbutton {
 display: flex;
 flex-direction: row;
 justify-content: center;
@@ -32,59 +91,38 @@ padding: 16px;
 gap: 10px;
 
 position: absolute;
-width: 179px;
-height: 58px;
+width: 140px;
+height: 59px;
 left: 155px;
-top: 35px;
+top: 590px;
 
-background: #D9D9D9;
+background: #FFCF02;
 border-radius: 7px;
-
-font-family: 'DM Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 26px;
-flex: none;
-order: 0;
-flex-grow: 0;
 }
 
-#hook {
-    position: absolute;
-width: 531px;
-height: 152px;
-left: 155px;
-top: 271px;
+#learnmore {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
 
-font-family: 'DM Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 47px;
-}
-
-#homepara {
-    position: absolute;
-width: 451px;
-height: 92px;
-left: 155px;
-top: 497px;
-
-font-family: 'DM Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 26px;
-
-}
-
-#description-prompt {
 position: absolute;
-width: 365px;
+width: 136px;
+height: 59px;
+left: 310px;
+top: 556.5px;
+
+border-radius: 7px;
+}
+
+#desc-prompt {
+position: absolute;
+width: 360px;
 height: 52px;
 left: 552px;
-top: 1015px;
+top: 815px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -92,5 +130,78 @@ font-weight: 700;
 font-size: 40px;
 line-height: 52px;
 /* identical to box height */
+
+
 color: #000000;
+
+}
+
+#desc-step1 {
+position: absolute;
+width: 755px;
+height: 157px;
+left: 272px;
+top: 1238px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+}
+
+#desc-step2 {
+position: absolute;
+width: 755px;
+height: 157px;
+left: 384px;
+top: 1559px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+position: absolute;
+width: 887px;
+height: 281px;
+left: 318px;
+top: 1497px;
+
+background: rgba(251, 235, 169, 0.75);
+border-radius: 24px;
+}
+
+#desc-step3 {
+position: absolute;
+width: 755px;
+height: 157px;
+left: 445px;
+top: 1880px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+position: absolute;
+width: 887px;
+height: 281px;
+left: 625px;
+top: 1837px;
+
+background: #FBEBA9;
+border-radius: 30px;
 }
