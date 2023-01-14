@@ -210,6 +210,33 @@ background-color: #FBEBA9;
 background-clip: padding-box;
 }
 
+#two-step-h1 {
+    position: absolute;
+width: 427px;
+height: 52px;
+left: 506px;
+top: 800px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;  
+}
+
+#steps {
+}
+
+#stepone {
+    position:absolute;
+    top:900px;
+    left: 160px;
+    margin: auto;
+    width: 60%;
+}
+
+
+
 #sponsor {
 
 position: absolute;
