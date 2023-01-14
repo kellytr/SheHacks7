@@ -78,3 +78,19 @@ font-size: 20px;
 line-height: 26px;
 
 }
+
+#description-prompt {
+position: absolute;
+width: 365px;
+height: 52px;
+left: 552px;
+top: 1015px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+color: #000000;
+}
