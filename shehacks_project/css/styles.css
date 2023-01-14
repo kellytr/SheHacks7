@@ -51,7 +51,7 @@ position: absolute;
 width: 531px;
 height: 152px;
 left: 155px;
-top: 241px;
+top: 171px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -67,7 +67,7 @@ color: #000000;
 width: 451px;
 height: 92px;
 left: 155px;
-top: 467px;
+top: 387px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -79,9 +79,9 @@ line-height: 26px;
 
 #hook-img {
 position: absolute;
-width: 359px;
+width: 350px;
 height: auto;
-left: 929px;
+left: 909px;
 top: 185px;
 
 background: url(bonbon-line-hand-holds-the-mirror-the-brush-and-the-makeup-palette.png);
@@ -99,7 +99,7 @@ position: absolute;
 width: 140px;
 height: 59px;
 left: 155px;
-top: 590px;
+top: 510px;
 
 background: #FFCF02;
 border-radius: 7px;
@@ -117,7 +117,7 @@ position: absolute;
 width: 136px;
 height: 59px;
 left: 310px;
-top: 556.5px;
+top: 491.5px;
 
 border-radius: 7px;
 
@@ -236,6 +236,8 @@ color: #000000;
 
 }
 
+
+
 #team-members {
 
 display: flex;
@@ -244,11 +246,18 @@ align-items: flex-start;
 padding: 0px;
 gap: 40px;
 
+
 position: absolute;
-width: 579px;
-height: 31px;
-left: 150px;
+left: 170px;
 top: 300px;
+
+}
+
+.teamimg {
+
+width: 879px;
+height: auto;
+
 }
 
 #vee {
@@ -264,7 +273,7 @@ position: absolute;
 width: 708px;
 height: 145px;
 left: 160px;
-top: 257px;
+top: 177px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -281,7 +290,7 @@ position: absolute;
 width: 362px;
 height: 104px;
 left: 900px;
-top: 300px;
+top: 220px;
 }
 
 #hiw-desc {
@@ -289,7 +298,7 @@ position: absolute;
 width: 1120px;
 height: 63px;
 left: 160px;
-top: 442px;
+top: 362px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -305,7 +314,7 @@ position: absolute;
 width: 1104px;
 height: 508px;
 left: 160px;
-top: 569px;
+top: 489px;
 }
 
 #hiw-input {
@@ -313,6 +322,41 @@ position: absolute;
 width: 1104px;
 height: 195px;
 left: 160px;
-top: 1157px;
+top: 1077px;
 padding-bottom: 100px;
+}
+
+#quiz-prompt-one {
+
+position: absolute;
+width: 584px;
+height: 63px;
+left: 428px;
+top: 177px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#quiz-selection {
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 579px;
+height: 31px;
+left: 340px;
+top: 400px;
+
 }
