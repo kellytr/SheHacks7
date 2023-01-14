@@ -1,3 +1,16 @@
 body {
     background-color: pink;
 }
+
+.navflex {
+    display:flex;
+    align-items: center;
+}
+
+.navflexitem_companyname {
+
+}
+
+.navflexitem {
+    justify-content: flex-ends;
+}
