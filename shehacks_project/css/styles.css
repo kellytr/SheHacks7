@@ -326,6 +326,8 @@ top: 1077px;
 padding-bottom: 100px;
 }
 
+/* QUIZ MAIN PAGE */
+
 #quiz-prompt-one {
 
 position: absolute;
@@ -358,5 +360,64 @@ width: 579px;
 height: 31px;
 left: 340px;
 top: 350px;
+
+}
+
+/* EYE COLOUR */
+
+#eye-colour-prompt {
+
+position: absolute;
+width: 584px;
+height: 63px;
+left: 528px;
+top: 170px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#quiz-selection-eye-colour-top {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 480px;
+top: 300px;
+
+}
+
+#quiz-selection-eye-colour-bottom {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 480px;
+top: 550px;
+
+}
+
+.eye-colour-img {
+
+width: 200px;
+height: auto;
 
 }
