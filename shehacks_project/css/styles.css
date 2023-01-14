@@ -459,6 +459,96 @@ padding-bottom: 100px;
 
 }
 
+/* EYE SHAPE */
+
+#eye-shape-prompt {
+
+position: absolute;
+width: 584px;
+height: 63px;
+left: 528px;
+top: 170px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#eye-shape-help {
+
+position: absolute;
+width: 570px;
+height: 38px;
+left: 540px;
+top: 240px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 250;
+font-size: 20px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #000000;
+    
+
+}
+
+#quiz-selection-eye-shape-top {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 285px;
+top: 320px;
+
+}
+
+#quiz-selection-eye-shape-bottom {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 285px;
+top: 610px;
+
+}
+
+.eye-shape-img {
+
+width: 250px;
+height: auto;
+
+}
+
+#wide-set {
+
+padding-bottom: 100px;
+
+}
+
+/* USER INPUT PROMPTS - VIVIAN */
+
 #beauty-prompt {
     position: absolute;
 width: 586px;
