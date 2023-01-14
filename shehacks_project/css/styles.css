@@ -101,9 +101,11 @@ height: 59px;
 left: 155px;
 top: 510px;
 
-background: #FFCF02;
+background: #FFE468;
 border-radius: 7px;
+border: #FFE468;
 font-family: 'DM Sans';
+font-size: 20px;
 }
 
 #learnmore {
@@ -118,7 +120,8 @@ position: absolute;
 width: 136px;
 height: 59px;
 left: 310px;
-top: 491.5px;
+top: 492.5px;
+font-size: 20px;
 
 border-radius: 7px;
 
@@ -364,7 +367,7 @@ top: 350px;
 
 }
 
-#lip-quiz {
+#skin-quiz {
 
 padding-bottom: 100px;
 
