@@ -614,10 +614,26 @@ font-family: 'DM Sans';
 
 vertical-align: text-top;
 
+margin:auto;
+margin-bottom: 200px;
+
+font-size: 20px;
+
 }
 
 #beauty-prompt-textbox::placeholder {
     color:#8f8f8f;
+    font-size: 20px;
+    vertical-align: top;
+
+}
+
+#prompt-img {
+    position: absolute;
+width: 364px;
+height: 364px;
+left: 32px;
+top: 167px;
 
 }
 
