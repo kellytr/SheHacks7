@@ -1,7 +1,7 @@
 /* GENERAL STYLE */
 
 body {
-    background-color: white;
+    background-color: #FDFDFA;
 }
 
 #navbar {
@@ -553,17 +553,22 @@ padding-bottom: 100px;
 /* USER INPUT PROMPTS - VIVIAN */
 
 #beauty-prompt {
-    position: absolute;
-width: 586px;
-height: 42px;
-left: 427px;
-top: 257px;
+position: absolute;
+width: 584px;
+height: 63px;
+left: 528px;
+top: 170px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
 line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
 }
 
 #beauty-prompt-textbox {
@@ -591,6 +596,168 @@ vertical-align: text-top;
 
 #beauty-prompt-textbox::placeholder {
     color:#8f8f8f;
+
+}
+
+/* RESULTS PAGE */
+
+#style-result {
+
+position: absolute;
+width: 584px;
+height: 63px;
+left: 570px;
+top: 170px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+
+#result-percent {
+
+position: absolute;
+width: 1074px;
+height: 246px;
+left: 171px;
+top: 341px;
+
+}
+
+#style-result-desc-one {
+
+position: absolute;
+width: 1120px;
+height: 93px;
+left: 210px;
+top: 643px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+}
+
+#style-result-desc-two {
+
+position: absolute;
+width: 1120px;
+height: 210px;
+left: 210px;
+top: 707px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+#style-recommend {
+
+position: absolute;
+width: 756px;
+height: 61px;
+left: 430px;
+top: 973px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 47px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+
+#styles {
+
+position: absolute;
+width: 1104.02px;
+height: auto;
+left: 210px;
+top: 1130px;
+
+}
+
+#style-desc {
+
+position: absolute;
+width: 1120px;
+height: 273px;
+left: 210px;
+top: 1468px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #000000;
+    
+}
+
+#style-desc-two {
+
+position: absolute;
+width: 1120px;
+height: 273px;
+left: 210px;
+top: 1620px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #000000;
+    
+}
+
+#product-recommend{
+
+position: absolute;
+width: 756px;
+height: 61px;
+left: 392px;
+top: 1900px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 47px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
 
 }
 
