@@ -726,9 +726,9 @@ color: #000000;
 #result-percent {
 
 position: absolute;
-width: 1074px;
-height: 246px;
-left: 171px;
+width: 950px;
+height: auto;
+left: 210px;
 top: 341px;
 
 }
@@ -736,16 +736,16 @@ top: 341px;
 #style-result-desc-one {
 
 position: absolute;
-width: 1120px;
-height: 93px;
-left: 210px;
-top: 643px;
+width: 1000px;
+height: 62px;
+left: 220px;
+top: 593px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 400;
-font-size: 32px;
-line-height: 42px;
+font-size: 22px;
+line-height: 31px;
 
 color: #000000;
 }
@@ -753,10 +753,10 @@ color: #000000;
 #style-result-desc-two {
 
 position: absolute;
-width: 1120px;
+width: 1000px;
 height: 210px;
 left: 210px;
-top: 707px;
+top: 607px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -775,13 +775,13 @@ color: #000000;
 position: absolute;
 width: 756px;
 height: 61px;
-left: 430px;
-top: 973px;
+left: 440px;
+top: 823px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 500;
-font-size: 36px;
+font-size: 32px;
 line-height: 47px;
 display: flex;
 align-items: center;
@@ -794,26 +794,26 @@ color: #000000;
 #styles {
 
 position: absolute;
-width: 1104.02px;
+width: 1000px;
 height: auto;
-left: 210px;
-top: 1130px;
+left: 240px;
+top: 980px;
 
 }
 
 #style-desc {
 
 position: absolute;
-width: 1120px;
-height: 273px;
+width: 1050px;
+height: 158px;
 left: 210px;
-top: 1468px;
+top: 1318px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 400;
-font-size: 32px;
-line-height: 42px;
+font-size: 22px;
+line-height: 31px;
 display: flex;
 align-items: center;
 
@@ -824,16 +824,16 @@ color: #000000;
 #style-desc-two {
 
 position: absolute;
-width: 1120px;
-height: 273px;
+width: 1050px;
+height: 158px;
 left: 210px;
-top: 1620px;
+top: 1420px;
 
 font-family: 'DM Sans';
 font-style: normal;
 font-weight: 400;
-font-size: 32px;
-line-height: 42px;
+font-size: 22px;
+line-height: 31px;
 display: flex;
 align-items: center;
 
@@ -847,7 +847,7 @@ position: absolute;
 width: 756px;
 height: 61px;
 left: 392px;
-top: 1900px;
+top: 1630px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -859,6 +859,64 @@ align-items: center;
 text-align: center;
 
 color: #000000;
+
+}
+
+#eyeliner-recommend {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 335px;
+top: 1790px;
+
+}
+
+#eyeshadow-recommend {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 335px;
+top: 2190px;
+
+}
+
+#mascara-recommend {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 335px;
+top: 2590px;
+
+}
+
+#mascara-one {
+
+padding-bottom: 100px;
+
+}
+
+.product-img {
+
+width: 250px;
+height: auto;
 
 }
 
