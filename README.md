@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/106164999/212520890-438e785f-efd6-40ad-a23a-0d022e6619d9.svg" width="250">
+<img src="https://user-images.githubusercontent.com/106164999/212521102-f189c1ca-811a-45fd-bbc7-47edbb4b4a19.svg" width="250">
 
 At idbeauty, we provide the tools for makeup enthusiasts of all skill levels to discover new products that work for their unique beauty.
 
