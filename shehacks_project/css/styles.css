@@ -642,6 +642,57 @@ top: 167px;
 
 }
 
+#backbutton {
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 160px;
+    height: 72px;
+    left: 287px;
+    top: 819px;
+    
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    border-radius: 15px;
+
+    font-family: 'DM Sans';
+    font-size: 24px;
+}
+
+#submitbutton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+    position: absolute;
+    width: 160px;
+    height: 72px;
+    left: 993px;
+    top: 819px;
+    
+    background: rgba(255, 207, 2, 0.75);
+    border-radius: 15px;
+
+    font-family: 'DM Sans';
+    font-size: 24px;
+}
+
+#blank-space {
+    padding-bottom: 5rem;
+    padding-top: 54rem;
+}
+
 /* RESULTS PAGE */
 
 #style-result {
