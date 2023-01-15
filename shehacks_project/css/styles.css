@@ -67,7 +67,7 @@ color: #000000;
 width: 451px;
 height: 92px;
 left: 155px;
-top: 387px;
+top: 357px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -99,7 +99,7 @@ position: absolute;
 width: 140px;
 height: 59px;
 left: 155px;
-top: 510px;
+top: 540px;
 
 background: #FFE468;
 border-radius: 7px;
@@ -120,7 +120,7 @@ position: absolute;
 width: 136px;
 height: 59px;
 left: 310px;
-top: 492.5px;
+top: 522.5px;
 font-size: 20px;
 
 border-radius: 7px;
@@ -147,7 +147,7 @@ color: #000000;
 
 }
 
-#desc-step1 {
+#desc-1 {
 position: absolute;
 width: 755px;
 height: 157px;
@@ -224,23 +224,24 @@ font-size: 40px;
 line-height: 52px;  
 }
 
-#steps {
-}
 
 #stepone {
-    position:absolute;
-    top:900px;
-    left: 160px;
-    margin: auto;
-    width: 60%;
+
+position:absolute;
+width: 1120px;
+height: auto;
+top:900px;
+left: 160px;
+margin: auto;
+
 }
 
 #steptwo {
-    position: absolute;
+position: absolute;
 width: 919px;
-height: 996px;
+height: auto;
 left: 293px;
-top: 1500px;
+top: 1650px;
 }
 
 
@@ -250,7 +251,7 @@ position: absolute;
 width: 778px;
 height: 155px;
 left: 302px;
-top: 2500px;   
+top: 2550px;   
 padding-bottom: 100px;
 }
 
@@ -361,7 +362,48 @@ width: 1104px;
 height: 195px;
 left: 160px;
 top: 1077px;
+}
+
+#hiw-output {
+position: absolute;
+width: 1106px;
+height: 466px;
+left: 160px;
+top: 1408px;
 padding-bottom: 100px;
+
+}
+
+#hiw-eyeliner {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 335px;
+top: 1930px;
+
+
+}
+
+#hiw-mascara {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+
+position: absolute;
+left: 335px;
+top: 2280px;
+
+
 }
 
 /* QUIZ MAIN PAGE */
@@ -590,7 +632,7 @@ padding-bottom: 100px;
 position: absolute;
 width: 584px;
 height: 63px;
-left: 528px;
+left: 428px;
 top: 170px;
 
 font-family: 'DM Sans';
