@@ -1,5 +1,7 @@
 # idbeauty
 
+<img src="https://user-images.githubusercontent.com/884032/101398418-08e1c700-389c-11eb-8cf2-592c20383a19.png" width="250">
+
 At idbeauty, we provide the tools for makeup enthusiasts of all skill levels to discover new products that work for their unique beauty.
 
 Our project is a tool for makeup enthusiasts to discover new products and styles that work for their unique beauty, using the Co:here API LLM to classify text relating to makeup styles.
