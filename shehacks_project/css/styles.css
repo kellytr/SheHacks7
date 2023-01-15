@@ -235,6 +235,13 @@ line-height: 52px;
     width: 60%;
 }
 
+#steptwo {
+    position: absolute;
+width: 919px;
+height: 996px;
+left: 293px;
+top: 1500px;
+}
 
 
 #sponsor {
@@ -243,7 +250,7 @@ position: absolute;
 width: 778px;
 height: 155px;
 left: 302px;
-top: 2025px;   
+top: 2500px;   
 padding-bottom: 100px;
 }
 
