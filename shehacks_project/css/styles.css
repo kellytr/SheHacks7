@@ -775,6 +775,25 @@ top: 341px;
 
 }
 
+#down-light {
+
+position: absolute;
+width: 110px;
+height: auto;
+left: 1330px;
+top: 482px;
+
+}
+
+#down-dark {
+
+position: absolute;
+width: 90px;
+height: auto;
+left: 1330px;
+top: 1332px;
+}    
+
 #style-result-desc-one {
 
 position: absolute;
