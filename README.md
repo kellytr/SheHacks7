@@ -1,5 +1,3 @@
-# idbeauty
-
 <img src="https://user-images.githubusercontent.com/106164999/212520890-438e785f-efd6-40ad-a23a-0d022e6619d9.svg" width="250">
 
 At idbeauty, we provide the tools for makeup enthusiasts of all skill levels to discover new products that work for their unique beauty.
