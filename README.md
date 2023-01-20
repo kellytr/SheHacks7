@@ -4,6 +4,9 @@ At idbeauty, we provide the tools for makeup enthusiasts of all skill levels to 
 
 Our project is a tool for makeup enthusiasts to discover new products and styles that work for their unique beauty, using the Co:here API LLM to classify text relating to makeup styles.
 
+Find our submission on Devpost [here](https://devpost.com/software/idbeauty?ref_content=my-projects-tab&ref_feature=my_projects).
+
+
 ## Inspiration
 
 This idea came about because of a conversation between us on our way to the hackathon!
